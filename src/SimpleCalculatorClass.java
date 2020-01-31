@@ -26,4 +26,6 @@ public class SimpleCalculatorClass {
     public void setB(int b){
         this.b=b;
     }
+
+
 }
